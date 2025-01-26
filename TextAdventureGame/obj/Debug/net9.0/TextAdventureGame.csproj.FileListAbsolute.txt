@@ -1,0 +1,15 @@
+c:\ApliedPrograming\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.exe
+c:\ApliedPrograming\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.deps.json
+c:\ApliedPrograming\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.runtimeconfig.json
+c:\ApliedPrograming\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.dll
+c:\ApliedPrograming\TextAdventureGame\bin\Debug\net9.0\TextAdventureGame.pdb
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.AssemblyInfoInputs.cache
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.AssemblyInfo.cs
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.csproj.CoreCompileInputs.cache
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.sourcelink.json
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.dll
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\refint\TextAdventureGame.dll
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.pdb
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\TextAdventureGame.genruntimeconfig.cache
+c:\ApliedPrograming\TextAdventureGame\obj\Debug\net9.0\ref\TextAdventureGame.dll
