@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj": {}
+    "C:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj": {}
   },
   "projects": {
-    "c:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj": {
+    "C:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj",
+        "projectUniqueName": "C:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj",
         "projectName": "TextAdventureGame",
-        "projectPath": "c:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj",
+        "projectPath": "C:\\ApliedPrograming\\TextAdventureGame\\TextAdventureGame.csproj",
         "packagesPath": "C:\\Users\\jlope\\.nuget\\packages\\",
-        "outputPath": "c:\\ApliedPrograming\\TextAdventureGame\\obj\\",
+        "outputPath": "C:\\ApliedPrograming\\TextAdventureGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jlope\\AppData\\Roaming\\NuGet\\NuGet.Config"
