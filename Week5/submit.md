@@ -38,6 +38,7 @@ Complete the following checklist to make sure you completed all parts of the mod
 
 ### Did you complete a Stretch Challenge 
 If you completed a stretch challenge, describe what you completed.
+i compleated the stretch challenge
 
 
 ### Record your time
