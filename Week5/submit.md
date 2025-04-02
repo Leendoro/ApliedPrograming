@@ -1,12 +1,12 @@
 # Module #<3> Submit
 ## CSE 310 – Applied Programming
 
-|Name|Date|Teacher|
+|Name|Date|TMCGARY|
 |-|-|-|
 | | | |
 
 ### Project Repository Link
-Copy the link to your [Github Repository](<!-- Insert Link Here -->)
+Copy the link to your [https://github.com/Leendoro/ApliedPrograming/tree/main/Week5](<!-- Insert Link Here -->)
 
 ### Module
 Mark an **X** next to the module you completed
@@ -17,8 +17,8 @@ Mark an **X** next to the module you completed
 |Data Analysis            | | Kotlin                   | |
 |Game Framework           | | R                        | |
 |GIS Mapping              | | Erlang                   | |
-|Mobile App               | | JavaScript               | |
-|Networking               | | C#                       |X|
+|Mobile App               | | JavaScript               |X |
+|Networking               | | C#                       ||
 |Web Apps                 | | TypeScript               | |
 |Language – C++           | | Rust                     | |
 |SQL Relational Databases | |Choose Your Own Adventure | |
@@ -38,7 +38,7 @@ Complete the following checklist to make sure you completed all parts of the mod
 
 ### Did you complete a Stretch Challenge 
 If you completed a stretch challenge, describe what you completed.
-i compleated the stretch challenge
+i compleated the stretch challenge adding error checks
 
 
 ### Record your time
@@ -52,11 +52,11 @@ How many hours did you spend on this module and the team project this Sprint?
 
 ### Retrospective
 - What learning strategies worked well in this module?
-  <!-- Response Here -->
+ I found that having additional pracice and looking over others code gave me a blueprint of what to do
 - What strategies (or lack of strategy) did not work well?
-  <!-- Response Here -->
+  i had issies figuring out how APIs worked, and i think that took more time away from my project
 - How can you improve in the next module?
-  <!-- Response Here -->
+  Make things look nicer and add more fetures
 
 
 <!-- Create this Markdown to a PDF and submit it. In visual studio code you can convert this to a pdf with any one of the extensions. -->
@@ -67,29 +67,37 @@ How many hours did you spend on this module and the team project this Sprint?
 
 {Provide a description of the software that you wrote to demonstrate the JavaScript language.}
 
+This code is a simple weather forcast website using javascript to take information from a Weather track API and then show you the weather for the inputed city
+
 {Describe your purpose for writing this software.}
+
+i struggled alot with javascript in previous classes, plus ive alwasy had a small hobbie intrest in the weather as i often find myeslf staring at the forcast durring my free time, i figured i can try and merge the two into somthing id be able to use, or practice more of javascript
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7tiUjDSHbU4)
 
 # Development Environment
 
 {Describe the tools that you used to develop the software}
 
+Visual studio code
+
 {Describe the programming language that you used and any libraries.}
+
+i used javascript which is a high-level, interpreted programming language that is widely used to create interactive and dynamic web pages. It allows developers to add functionality, animations, real-time updates, and more to websites
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](https://www.geeksforgeeks.org/)
+- [Web Site Name](https://www.w3schools.com)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Make the website look prettier
+- add option to have Farenheight
+- add a state indicator
