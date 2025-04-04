@@ -6,7 +6,7 @@
 | | | |
 
 ### Project Repository Link
-Copy the link to your [Github Repository](<!-- Insert Link Here -->)
+Copy the link to your [Github Repository](https://github.com/Leendoro/ApliedPrograming/tree/main/Week3)
 
 ### Module
 Mark an **X** next to the module you completed
